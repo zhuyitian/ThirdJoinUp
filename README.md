@@ -1,2 +1,2 @@
 # ThirdJoinUp
-三方接入文档
+iOS版三方接入文档
